@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
+C:\Users\User\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\MySql.Data.dll
+C:\Users\User\documents\visual studio 2015\Projects\HelloService\HelloServiceHost\bin\Debug\MySql.Data.xml
